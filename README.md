@@ -1,5 +1,5 @@
 # WallpaperEngine-SceneScript-Study
-
+[中文](README_CN.md) **|** [English](README.md)
 ## What's the project?
 * My WallpaperEngine SceneScript self-learning backup.
 ## Anything need attention?
