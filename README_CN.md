@@ -1,4 +1,5 @@
 # WallpaperEngine-SceneScript-Study
+[中文](README_CN.md) **|** [English](README.md)
 ## 这个项目是什么
 * 这个项目是我自学Wallpaper Engine脚本的备份存档，也欢迎大家学习探讨。
 ## 有什么需要注意的吗？
